@@ -3,4 +3,5 @@
   <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 </p>
