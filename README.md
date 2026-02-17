@@ -6,4 +6,3 @@
   <img alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 </div>    
-</p>
